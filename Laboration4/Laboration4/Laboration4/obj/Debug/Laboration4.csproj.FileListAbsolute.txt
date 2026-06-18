@@ -1,0 +1,13 @@
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\bin\Debug\Laboration4.exe.config
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\bin\Debug\Laboration4.exe
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\bin\Debug\Laboration4.pdb
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.csprojAssemblyReference.cache
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.Kassa.resources
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.Lagerhantering.resources
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.Properties.Resources.resources
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.csproj.GenerateResource.cache
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.csproj.CoreCompileInputs.cache
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.exe
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.pdb
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.Form1.resources
+C:\Users\zeynollah\source\repos\Laboration4\Laboration4\obj\Debug\Laboration4.AddProductForm.resources
