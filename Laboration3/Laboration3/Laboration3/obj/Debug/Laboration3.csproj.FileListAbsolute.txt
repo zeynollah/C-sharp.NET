@@ -1,0 +1,10 @@
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\bin\Debug\Laboration3.exe.config
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\bin\Debug\Laboration3.exe
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\bin\Debug\Laboration3.pdb
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\obj\Debug\Laboration3.csprojAssemblyReference.cache
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\obj\Debug\Laboration3.Form1.resources
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\obj\Debug\Laboration3.Properties.Resources.resources
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\obj\Debug\Laboration3.csproj.GenerateResource.cache
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\obj\Debug\Laboration3.csproj.CoreCompileInputs.cache
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\obj\Debug\Laboration3.exe
+C:\Users\zeynollah\source\repos\Laboration3\Laboration3\obj\Debug\Laboration3.pdb
